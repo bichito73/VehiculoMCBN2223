@@ -3,6 +3,7 @@ package vehiculo;
 /**
  * Este programa utiliza la clase VehiculoBenitezNaranjoMCarmen2223 para
  * gestionar un inventario de vehículos.
+ * Repositorio https://github.com/bichito73/VehiculoMCBN2223/blob/master/src/vehiculo/VehiculoBenitezNaranjoMCarmen2223.java
  * @author IES Aguadulce
  */
 public class VehiculoBenitezNaranjoMCarmen2223 {
